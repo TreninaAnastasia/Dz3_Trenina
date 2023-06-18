@@ -1,0 +1,15 @@
+C:\Users\настя\Desktop\учеба\и шарп практическое3\1Zadanie\bin\Debug\net7.0\1Zadanie.exe
+C:\Users\настя\Desktop\учеба\и шарп практическое3\1Zadanie\bin\Debug\net7.0\1Zadanie.deps.json
+C:\Users\настя\Desktop\учеба\и шарп практическое3\1Zadanie\bin\Debug\net7.0\1Zadanie.runtimeconfig.json
+C:\Users\настя\Desktop\учеба\и шарп практическое3\1Zadanie\bin\Debug\net7.0\1Zadanie.dll
+C:\Users\настя\Desktop\учеба\и шарп практическое3\1Zadanie\bin\Debug\net7.0\1Zadanie.pdb
+C:\Users\настя\Desktop\учеба\и шарп практическое3\1Zadanie\obj\Debug\net7.0\1Zadanie.csproj.AssemblyReference.cache
+C:\Users\настя\Desktop\учеба\и шарп практическое3\1Zadanie\obj\Debug\net7.0\1Zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\настя\Desktop\учеба\и шарп практическое3\1Zadanie\obj\Debug\net7.0\1Zadanie.AssemblyInfoInputs.cache
+C:\Users\настя\Desktop\учеба\и шарп практическое3\1Zadanie\obj\Debug\net7.0\1Zadanie.AssemblyInfo.cs
+C:\Users\настя\Desktop\учеба\и шарп практическое3\1Zadanie\obj\Debug\net7.0\1Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\настя\Desktop\учеба\и шарп практическое3\1Zadanie\obj\Debug\net7.0\1Zadanie.dll
+C:\Users\настя\Desktop\учеба\и шарп практическое3\1Zadanie\obj\Debug\net7.0\refint\1Zadanie.dll
+C:\Users\настя\Desktop\учеба\и шарп практическое3\1Zadanie\obj\Debug\net7.0\1Zadanie.pdb
+C:\Users\настя\Desktop\учеба\и шарп практическое3\1Zadanie\obj\Debug\net7.0\1Zadanie.genruntimeconfig.cache
+C:\Users\настя\Desktop\учеба\и шарп практическое3\1Zadanie\obj\Debug\net7.0\ref\1Zadanie.dll
